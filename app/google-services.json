@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "375131310980",
+    "firebase_url": "https://mekiemanoapp.firebaseio.com",
+    "project_id": "mekiemanoapp",
+    "storage_bucket": "mekiemanoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375131310980:android:5d2332ae18968944",
+        "android_client_info": {
+          "package_name": "ga.orlandocode.mekiemanoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375131310980-6rlnm5f6kt1jsijag8pq44bk5bl2dci9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ga.orlandocode.mekiemanoapp",
+            "certificate_hash": "d73ad994c08d8d6172e2fdbe1506bcb2eef74c01"
+          }
+        },
+        {
+          "client_id": "375131310980-dg47s3vk8qfrolbjul6v08fnecjrn38t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv6TG_YU5bjEoBH0iAshNZAIq3CxaHTzA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375131310980-dg47s3vk8qfrolbjul6v08fnecjrn38t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
